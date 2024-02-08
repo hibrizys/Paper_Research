@@ -1,6 +1,6 @@
 # Tookar
 
-![logo app](https://github.com/hibrizys/imageDocsTookar/blob/main/Logo.png)
+![logo app](https://github.com/hibrizys/Paper_Research/blob/main/image/Logo.png)
 
 ## Overview
 
@@ -12,15 +12,11 @@ Tookar is an app which has the purpose for surplus items is designed to encourag
 | :------------------------------------------: | :------------: | :----------------------------------: | :-------------------------------------------------: |
 |               Hibrizy Sulistiyo              |   1303204017   |  Bachelor of Information Technology  |        https://www.linkedin.com/in/hibrizys         |
 
-## Tech Stacks
-
-![Tech Stacks](https://github.com/hibrizys/imageDocsTookar/blob/main/Tech%20Stacks.png)
-
 ## Prototype
 
 You can see it [here](https://www.figma.com/proto/RM0HvxA47qMn6Dgo5P03Hz/Capstone-Project?type=design&node-id=529-240&t=DfSzoNEriPQSYs8m-1&scaling=scale-down&page-id=529%3A239&starting-point-node-id=529%3A240&mode=design).
 
-## Our application
+## Application
 
 You can download [here](https://drive.google.com/file/d/1Z0m3WmLy1cN4JmYtg23KPnYMzUUEWtUO/view?usp=sharing).
 
